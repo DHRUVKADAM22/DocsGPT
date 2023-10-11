@@ -108,6 +108,7 @@ To stop, just run `Ctrl + C`.
 
 For WINDOWS:
 
+
 To run the given setup on Windows, you can use the Windows Subsystem for Linux (WSL) or a Git Bash terminal to execute similar commands. Here are the steps adapted for Windows:
 
 Option 1: Using Windows Subsystem for Linux (WSL):
